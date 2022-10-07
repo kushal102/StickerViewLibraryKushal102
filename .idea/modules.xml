@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StickerView.iml" filepath="$PROJECT_DIR$/StickerView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-StickerViewsd.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-StickerViewsd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sticker View/Android-StickerViewsd.Sticker_View.iml" filepath="$PROJECT_DIR$/.idea/modules/Sticker View/Android-StickerViewsd.Sticker_View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sticker View/Android-StickerViewsd.Sticker_View.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Sticker View/Android-StickerViewsd.Sticker_View.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sticker View/Android-StickerViewsd.Sticker_View.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sticker View/Android-StickerViewsd.Sticker_View.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sticker View/Android-StickerViewsd.Sticker_View.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Sticker View/Android-StickerViewsd.Sticker_View.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-StickerViewsd.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-StickerViewsd.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-StickerViewsd.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-StickerViewsd.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-StickerViewsd.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-StickerViewsd.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-StickerViewsd.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-StickerViewsd.app.unitTest.iml" />
     </modules>
   </component>
 </project>

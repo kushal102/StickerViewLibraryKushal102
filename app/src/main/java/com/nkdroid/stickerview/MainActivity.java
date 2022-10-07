@@ -1,9 +1,11 @@
 package com.nkdroid.stickerview;
 
-import android.support.v7.app.AppCompatActivity;
+
 import android.os.Bundle;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
